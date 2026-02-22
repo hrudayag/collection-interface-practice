@@ -54,5 +54,3 @@ Features:
 - Iterate using entrySet()
 
 ---
-
-## Conclusion

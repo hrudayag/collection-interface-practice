@@ -52,5 +52,3 @@ Features:
 - Search meaning using a word
 - Check if a key exists
 - Iterate using entrySet()
-
----
